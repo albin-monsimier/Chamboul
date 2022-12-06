@@ -17,7 +17,7 @@
   "readme": "https://github.com/julien-moreau/learning/blob/master/README.md",
   "license": "(Apache-2.0)",
   "devDependencies": {
-    "http-server": "0.9.0",
+    "http-server": "14.1.1",
     "typescript": "3.6.3",
     "babylonjs": "4.0.3",
     "cannon": "0.6.2"
